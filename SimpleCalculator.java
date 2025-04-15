@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class SimpleCalculator {
     public static void main(String[] args) {
+        System.out.println("Simple Arthmatic Operation");
 
         Scanner scanner = new Scanner(System.in);
 
